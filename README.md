@@ -104,7 +104,7 @@ Leave a ⭐ from [here](https://github.com/Akash1362000/Django_BlogApp) if you l
 ```
 MIT License
 
-Copyright (c) 2020 Akash Shrivastava
+Copyright (c) 2024 Meghana Bobbili
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
